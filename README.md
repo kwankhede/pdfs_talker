@@ -1,5 +1,6 @@
 # PDFs Talker - Chatbot for PDF Documents
 
+<<<<<<< HEAD
 PDFs Talker is a Streamlit application that enables users to interactively chat with multiple PDF documents using LangChain and Google Gemini Pro models. This chatbot extracts text from uploaded PDF files, processes them into manageable chunks, and uses AI models to generate conversational responses based on user queries.
 
 ![Screenshot](screenshot.png)
@@ -11,6 +12,21 @@ PDFs Talker is a Streamlit application that enables users to interactively chat 
 - **Text Chunking:** Splits extracted text into smaller chunks for efficient processing.
 - **AI Powered Responses:** Utilizes Google Gemini Pro models to generate intelligent responses based on user questions.
 - **Interactive Interface:** Powered by Streamlit, providing a user-friendly and responsive web interface.
+||||||| 956c4c9
+A Streamlit application that allows users to chat with multiple PDF files using LangChain and Google Gemini Pro models.
+=======
+PDFs Talker is a Streamlit application that enables users to interactively chat with multiple PDF documents using LangChain and Google Gemini Pro models. This chatbot extracts text from uploaded PDF files, processes them into manageable chunks, and uses AI models to generate conversational responses based on user queries.
+
+![Screenshot](screenshot_panda.png)
+
+## Features
+
+- **Upload PDF Files:** Users can upload multiple PDF files simultaneously.
+- **Extract Text:** Automatically extracts text content from uploaded PDFs.
+- **Text Chunking:** Splits extracted text into smaller chunks for efficient processing.
+- **AI Powered Responses:** Utilizes Google Gemini Pro models to generate intelligent responses based on user questions.
+- **Interactive Interface:** Powered by Streamlit, providing a user-friendly and responsive web interface.
+>>>>>>> origin/main
 
 ## How to Run
 
