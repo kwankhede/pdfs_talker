@@ -2,7 +2,7 @@
 
 PDFs Talker is a Streamlit application that enables users to interactively chat with multiple PDF documents using LangChain and Google Gemini Pro models. This chatbot extracts text from uploaded PDF files, processes them into manageable chunks, and uses AI models to generate conversational responses based on user queries.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot_panda.png)
 
 ## Features
 
