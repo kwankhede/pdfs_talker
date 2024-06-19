@@ -89,6 +89,7 @@ def main():
         padding: 20px;
         border-radius: 10px;
         background-color: #FFF5E6;
+        color: #F39C12;
     }
     .progress-bar {
         margin-top: 20px;
